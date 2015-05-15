@@ -1,5 +1,13 @@
 package AbstractFactory;
 
+/**
+ * The abstract factory pattern provides a way to encapsulate
+ * a group of individual factories that have a common theme 
+ * without specifying their concrete classes.
+ * A factory is the location of a concrete class in the code 
+ * at which objects are constructed.
+ * [http://en.wikipedia.org/wiki/Abstract_factory_pattern]
+ */
 
 public class Main {
 	

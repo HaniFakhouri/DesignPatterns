@@ -1,0 +1,40 @@
+Design Pattern Principles: SOLID
+
+*S: SINGLE RESPONSIBILITY PRINCIPLE - SRP
+	A class should have only a single responsibility (i.e. only one potential change in the 
+	software's specification should be able to affect the specification of the class).
+
+	The single responsibility principle states that every class should have responsibility
+	over a single part of the functionality provided by the software, and that responsibility
+	should be entirely encapsulated by the class. All its services should be narrowly aligned
+	with that responsibility.
+
+*O: OPEN/CLOSED PRINCIPLE - OCPs
+	“software entities … should be open for extension, but closed for modification.”
+
+*L:	LISKOV SUBSTITUTION PRINCIPLE - LSP
+	“objects in a program should be replaceable with instances of their subtypes without altering
+	 the correctness of that program.”
+
+	Liskov's notion of a behavioral subtype defines a notion of substitutability for mutable
+	objects; that is, if S is a subtype of T, then objects of type T in a program may be
+	replaced with objects of type S without altering any of the desirable properties of that
+	program.
+
+*I: INTERFACE SEGREGATION PRINCIPLE - ISP
+	“many client-specific interfaces are better than one general-purpose interface.”
+
+	The interface-segregation principle (ISP) states that no client should be forced
+	to depend on methods it does not use.[1] ISP splits interfaces which are very
+	large into smaller and more specific ones so that clients will only have to know
+	about the methods that are of interest to them.
+
+*D: DEPENDENCY INVERSION PRINCIPLE - DIP
+	One should “Depend upon Abstractions. Do not depend upon concretions.”
+
+	A. High-level modules should not depend on low-level modules. Both should depend on 
+	   abstractions.
+	B. Abstractions should not depend on details. Details should depend on abstractions.
+
+[http://en.wikipedia.org/wiki/SOLID]
+	
