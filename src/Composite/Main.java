@@ -52,14 +52,14 @@ public class Main {
 
 		/**
 		 * Outputs:
-		 * I am a CEO
-		 * I am Manager 1
-		 * I am Employee 1
-		 * I am Employee 2
-		 * I am Manager 2
-		 * I am Employee 3
-		 * I am Employee 4
-		 * I am Employee 5
+		 * 		I am a CEO
+		 * 		I am Manager 1
+		 * 		I am Employee 1
+		 * 		I am Employee 2
+		 * 		I am Manager 2
+		 * 		I am Employee 3
+		 * 		I am Employee 4
+		 * 		I am Employee 5
 		 */
 
 	}

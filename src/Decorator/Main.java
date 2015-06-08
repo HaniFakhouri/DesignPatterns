@@ -28,10 +28,10 @@ public class Main {
 		
 		/**
 		 * Outputs:
-		 * Car: 10000
-		 * Car with black windows: 11500
-		 * Car with ABS breaks: 10500
-		 * Car with super wheels with ABS breaks with black windows: 15500
+		 * 		Car: 10000
+		 * 		Car with black windows: 11500
+		 * 		Car with ABS breaks: 10500
+		 * 		Car with super wheels with ABS breaks with black windows: 15500
 		 */
 		
 	}

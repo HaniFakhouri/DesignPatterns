@@ -21,6 +21,13 @@ public class Main {
 		System.out.println("Beta pricing:  " + cart.getTotalPrice(new BetaPrice()));
 		System.out.println("Gamma pricing: " + cart.getTotalPrice(new GammaPrice()));
 		
+		/**
+		 * Outputs:
+		 * 		Alfa pricing:  31.84999999999999
+		 * 		Beta pricing:  40.9
+		 * 		Gamma pricing: 45.5
+		 */
+		
 	}
 
 }

@@ -26,6 +26,14 @@ public class Main {
 		bmw.drive();
 		bmwEng.turnOn();
 		
+		/**
+		 * Outputs:
+		 * 		Driving a Mercedes
+		 * 		Gasing a Mercedes engine!
+		 * 		Driving a BMW!
+		 * 		Gasing a BMW engine!
+		 */
+		
 	}
 
 }

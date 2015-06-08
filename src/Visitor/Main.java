@@ -21,6 +21,22 @@ public class Main {
 		cart.accept(new CartBuyer());
 		cart.accept(new CartOpener());
 		
+		/**
+		 * Outputs:
+		 * 		Buying a Milk can
+		 * 		Buying a Cola can
+		 * 		Buying a Water can
+		 * 		Buying a chicken
+		 * 		Buying an egg
+		 * 		Buying the cart
+		 * 		Opening a Milk can
+		 * 		Opening a Cola can
+		 * 		Opening a Water can
+		 * 		Opening a chicken
+		 * 		Opening an egg
+		 * 		Opening the cart
+		 */
+		
 	}
 
 }

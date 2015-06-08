@@ -22,6 +22,28 @@ public class Main {
 		CookingSetThree chef3 = new CookingSetThree();
 		chef3.cook();
 		
+		/**
+		 * Outputs:
+		 * 		Step 1: set one way
+		 * 		Step 2: set one way
+		 * 		Step 2: set one way
+		 *		Step 2: set one way
+		 *		Step 3: this is a common step
+		 *		Final step: set one finishing
+		 *		Step 1: set two way
+		 *		Step 2: set two way
+		 *		Step 2: set two way
+		 *		Step 2: set two way
+		 *		Step 3: this is a common step
+		 *		Final step: set two finishing
+		 *		Step 1: set three way
+		 *		Step 2: set three way
+		 *		Step 2: set three way
+		 *		Step 2: set three way
+		 *		Step 3: this is a common step
+		 *		Final step: set three finishing
+		 */
+		
 	}
 
 }
